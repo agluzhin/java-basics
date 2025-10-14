@@ -1,4 +1,4 @@
-package org.example.syntax;
+package org.example.fundamental;
 
 public class Variable {
     /*
